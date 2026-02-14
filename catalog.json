@@ -529,6 +529,671 @@
     ]
   },
   {
+    "id": "db2f5262-a78f-411c-9988-e1d80507bb02",
+    "title": "MEGA SAMPLES VOL-53",
+    "category": "Music Samples",
+    "file_name": "69 Archives",
+    "size_bytes": 70380319590,
+    "size_human": "65.55 GB",
+    "release_url": "https://github.com/clasidpuppisa0421/syslogs/releases/tag/v2026-02-14-logs-5470",
+    "created_at": "2026-02-14T12:36:01.243054Z",
+    "tags": [
+      "Auto-Indexed",
+      "No-Cover",
+      "Samples",
+      "Music Samples"
+    ],
+    "is_encrypted": true,
+    "image": null,
+    "assets": [
+      {
+        "name": "sys_log_20260214_shard_ceb58c9e.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_ceb58c9e.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_e3373bac.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_e3373bac.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_436f9fdd.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_436f9fdd.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_05c9c1df.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_05c9c1df.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_e3bc6ace.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_e3bc6ace.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_24bd1ca5.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_24bd1ca5.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_aca1fed1.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_aca1fed1.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_b9ae7da5.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_b9ae7da5.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_31c5eab6.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_31c5eab6.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_889ca88f.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_889ca88f.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_ee8c9104.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_ee8c9104.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_af219006.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_af219006.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_9599c992.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_9599c992.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_d58ee88f.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_d58ee88f.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_355002e4.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_355002e4.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_7586a842.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_7586a842.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_7d63e75b.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_7d63e75b.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_9356259e.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_9356259e.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_44cf0c80.dat",
+        "size": 748319590,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_44cf0c80.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_84c4b61c.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_84c4b61c.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_d00e2b99.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_d00e2b99.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_e543c6c8.dat",
+        "size": 1024000000,
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/download/v2026-02-14-logs-5470/sys_log_20260214_shard_e543c6c8.dat",
+        "repo": "clasidpuppisa0421/syslogs",
+        "account_id": "180513978",
+        "username": "clasidpuppisa0421"
+      },
+      {
+        "name": "sys_log_20260214_shard_feaed7eb.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_feaed7eb.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_03b52a81.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_03b52a81.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_1c9bd2a9.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_1c9bd2a9.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_0481d16f.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_0481d16f.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_765d133d.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_765d133d.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_ee79c146.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_ee79c146.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_a019096e.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_a019096e.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_b091b239.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_b091b239.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_11221436.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_11221436.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_ce886667.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_ce886667.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_8c0a96bf.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_8c0a96bf.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_4c79886d.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_4c79886d.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_1fbbbef6.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_1fbbbef6.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_9580b913.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_9580b913.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_555abece.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_555abece.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_7cd17e14.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_7cd17e14.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_1bde9a76.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_1bde9a76.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_ed830ca0.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_ed830ca0.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_ca2cd04c.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_ca2cd04c.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_0bd668f8.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_0bd668f8.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_2c621b99.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_2c621b99.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_d6bdb658.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_d6bdb658.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_e3c57100.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_e3c57100.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_d6899d18.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_d6899d18.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_87bc30f9.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_87bc30f9.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_9b9147bc.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_9b9147bc.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_451b6a26.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_451b6a26.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_a38c7573.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_a38c7573.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_882e96f3.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_882e96f3.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_a07c3551.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_a07c3551.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_c8b311b7.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_c8b311b7.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_8b43d2ce.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_8b43d2ce.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_f31c0794.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_f31c0794.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_2df87c8f.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_2df87c8f.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_56ff6e49.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_56ff6e49.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_c0247b78.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_c0247b78.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_757044e5.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_757044e5.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_85f22bb4.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_85f22bb4.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_7546e114.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_7546e114.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_3f5cf02f.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_3f5cf02f.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_ded145f2.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_ded145f2.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_d0a33785.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_d0a33785.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_03d73406.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_03d73406.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_e469838b.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_e469838b.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_d142d406.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_d142d406.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_570ce40f.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_570ce40f.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      },
+      {
+        "name": "sys_log_20260214_shard_acd60006.dat",
+        "size": 1024000000,
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/download/v2026-02-14-logs-6058/sys_log_20260214_shard_acd60006.dat",
+        "repo": "casredkoroki417/syslogalert",
+        "account_id": "180536735",
+        "username": "casredkoroki417"
+      }
+    ],
+    "priority": 1,
+    "description": "Auto-Upload via ParFix.\n\n**Original Structure (Base64):**\n`TUVHQSBTQU1QTEVTIFZPTC01My8KICAgIEZyZXNobHkgU3F1ZWV6ZWQgU2FtcGxlcyBTaGVyc2ljayBhbmQgU2hlcmxvY2sgVHJhbmNlIE1pRGkgRXNzZW50aWFscyBWb2wuMS5yYXIgKDU0NS45MCBNQikKICAgIFNwbGljZSBCcmlnaHQgTGlnaHRzIFZvY2FsIFNhbXBsZSBQYWNrIFdBVi5yYXIgKDEyMy40NSBNQikKICAgIEdvbGRlbi5TYW1wbGVzLkltcHJlc3NpdmUuVmliZXouVm9sLjIuTUlESS5XQVYucmFyICgzNjkuMTggTUIpCiAgICBESU5NQSBJbnNwaXJlZCBTb3VuZCBDb2xsZWN0aW9uIFNhbXBsZSBQYWNrIEFDSUQgV0FWLnJhciAoMzkuMTIgTUIpCiAgICBCZWRyb29tIE11emlrIERpcnR5IFRlY2ggSG91c2UgU2FtcGxlcyAoV0FWKS5yYXIgKDEwNy4xMCBNQikKICAgIEF1ZGlvIE1hc3RlcnMgRnV0dXJlIEZyZW5jaCBQb3AgU3ludGhzIFdBViBBaUZGIEFQUExFIExPT1BTLnJhciAoMjU4LjY4IE1CKQogICAgSi5Db2xlIC0gRm9yZXN0IEhpbGxzIERyaXZlIFByZW1pdW0gRHJ1bSBLaXQgV0FWLnJhciAoMjYuMDMgTUIpCiAgICBUb3AgMTAgU2FtcGxlcyBVbHRpbWF0ZSBFRE0gU29uZ3N0YXJ0ZXJzIE1VTFRpRk9STUFULnJhciAoNTc5Ljg3IE1CKQogICAgU3VwcmVtZSBGWCBBdWRpbyBDaW5lbWF0aWMgRWxlbWVudHMgVm9sIDEgV0FWLnJhciAoNDguODQgTUIpCiAgICBTbW9rZXkgTG9vcHMgTGV0IEl0IEdvIFdBViBNaURpLnJhciAoMTkyLjE2IE1CKQogICAgV0EgUHJvZHVjdGlvbiBXaGF0IEFib3V0IEZ1bGwgTGVuZ3RoIEVETSBGWCBMaW5lcyA1IFdBVi5yYXIgKDIuMDQgR0IpCiAgICBQbHVnSHVnZ2VyIE5hbm9Qb2xhcml0eSB2b2wuMiBPdXRlciBTcGFjZSBMYWIgQUNJRCBXQVYuemlwICgzMi4zMCBNQikKICAgIEdvbGRlbi5TYW1wbGVzLktpbmcuT2YuRGlzY28uVm9sLjEuV0FWLk1pRGktTUFHTkVUUmlYWC5yYXIgKDE1MC4zMCBNQikKICAgIFJlZ2FsIExvb3BzIFNvdW5kcyBPZiBSaWtrIFdBViBNaURpLnJhciAoNDIxLjYwIE1CKQogICAgRmFrdWx0eSBTdHVkaW9zIFJpZGUgQ2xlYW4gMiBBQ0lEIFdBVi1ESVNDT1ZFUi5yYXIgKDY3OC41NyBNQikKICAgIFNpbmdvbWFrZXJzIEhvdXNlIEZvciBZb3VyIE1pbmQgTVVMVGlGT1JNQVQucmFyICg1ODYuMjMgTUIpCiAgICBUcmFuY2UgRXVwaG9yaWEgR2xvYmFsIFByb2dyZXNzaXZlIFRyYW5jZSBTb25nc3RhcnRlcnMgV0FWIE1pRGkucmFyICg0NjQuOTAgTUIpCiAgICBIaWdoTGlmZSBTYW1wbGVzIEVETSBGb3IgQWxsIFdBViBNaURpIFRVVE9SaUFMIEFCTEVUT04gTGlWRSBQUk9KRUNULnJhciAoODI5LjYwIE1CKQogICAgSnVuZ2xlIExvb3BzIFZlbnVzIHZzIE1hcnMgMiBXQVYgTWlEaS5yYXIgKDM0OS44MSBNQikKICAgIE11c2ljIFdlYXBvbnMgR3JpbWV5IEFjb3VzdGljIEtpdHMgV0FWLnJhciAoMTY0Ljk4IE1CKQogICAgTWFydGluIFNhbXBsZXdhcmUgVWx0aW1hdGUgVm9jYWxzIFdBVi5yYXIgKDExNC4xMCBNQikKICAgIFBsdWdIdWdnZXIgTmFub1BvbGFyaXR5IHZvbC4xIEludG8gVGhlIERhcmtuZXNzIEFDSUQgV0FWLnppcCAoNDIuMzQgTUIpCiAgICBGYWt1bHR5LlN0dWRpb3MuVGhlLkd1bWJvLkFyY2hpdmUuVm9sLjcuQUlGRi5XQVYucmFyICg4MDIuMjYgTUIpCiAgICBEaWdpdGFsIEZlbGljaXR5IEJhc3MgQm9tYiBXYXYgRWRpdGlvbiBWb2wgMSBXQVYucmFyICgyNy4wNSBNQikKICAgIE1haW5yb29tIFdhcmVob3VzZSBFRE0gTWFzc2l2ZSBEcm9wcyBTb25nc3RhcnRlcnMgV0FWIE1pRGkucmFyICgzNzEuNjggTUIpCiAgICBBdWRpb3RlbnQgQWxwaW5lIEFycHMgV0FWIE1pRGkucmFyICg4OC45OCBNQikKICAgIFdBIFByb2R1Y3Rpb24gV2hhdCBBYm91dCBMYXRpbm8gVm9jYWwgU2hvdXRzIFdBViBUVVRPUmlBTCBGTCBTVFVEaU8gUFJPSkVDVC5yYXIgKDE1MC4xNyBNQikKICAgIEZha3VsdHkgU3R1ZGlvcyBEYXJrIEx1c3QgQUNJRCBXQVYgQUlGRi1ESVNDT1ZFUi5yYXIgKDgxNS4xMSBNQikKICAgIEZha3VsdHkuU3R1ZGlvcy5UaGUuR3VtYm8uQXJjaGl2ZS5Wb2wuOC5BSUZGLldBVi5yYXIgKDU0MS45MSBNQikKICAgIEp1bmdsZSBMb29wcyBTbGF2ZSBNYXN0ZXIgV0FWIE1pRGkucmFyICgyNzMuNDYgTUIpCiAgICBGb3ggU2FtcGxlcyAtIERlZXAgSG91c2UgSW1wYWN0IFdBViBNaURpLnJhciAoNzcuNTEgTUIpCiAgICBBcmNhZGVNdXNpYyBNYXNzaXZlIFdvYmJsZSBIb3VzZSBXQVYgTWlEaSBOaSBNQVNTaVZFIFRVVE9SaUFMIEZMIFNUVURpTyBQUk9KRUNULnJhciAoMzg4LjM5IE1CKQogICAgRmFrdWx0eSBTdHVkaW9zIFJpZGUgQ2xlYW4gMyBXQVYtRElTQ09WRVIucmFyICgzMDMuNTkgTUIpCiAgICBTbW9rZXkgTG9vcHMgU3dlZXQgUGlhbm8gMiBXQVYgTWlEaS5yYXIgKDM1NC44NCBNQikKICAgIFByZW1pZXIgU291bmQgQmFuayBEZWVwIEhvdXNlIFN1cGVycGFjayBXQVYtRElTQ09WRVIucmFyICgzMzcuMzAgTUIpCiAgICBQcmVtaWVyIFNvdW5kIEJhbmsgRHVic3RlcCBCYXNzIFdBVi1ESVNDT1ZFUi5yYXIgKDkxLjA1IE1CKQogICAgUGx1Z0h1Z2dlciBOYW5vUG9sYXJpdHkgdm9sLjMgRGlzdHVyYmFuY2VzIEFDSUQgV0FWLnppcCAoOTAuODMgTUIpCiAgICBIYWxsIFNhbXBsZXMgUHVtcCBJdCBXQVYgTWlEaS5yYXIgKDExMi42MiBNQikKICAgIERpZ2l0YWwgRmVsaWNpdHkgVGhlIFNvdW5kIE9mIFdPUkxEUyBXQVYgTmkgTUFTU2lWRS5yYXIgKDM1MS41NCBNQikKICAgIFR1bmVjcmFmdCBTb3VuZHMgRlggVmF1bHQgVm9sIDEgV0FWIE5pIE1BU1NpVkUucmFyICg1NjMuNTcgTUIpCiAgICBTcGxpY2UgRG90IERhIEdlbml1cyBEcnVta2l0IFdBVi5yYXIgKDYyLjM5IE1CKQogICAgQmVkcm9vbS5NdXppay5KdWFubXkuUi5UcmliYWwuVGVjaC5Hcm9vdmUuVm9sLjEuV0FWLnJhciAoMTgyLjc0IE1CKQogICAgUHJlbWllciBTb3VuZCBCYW5rIENvbXBsZXh0cm8gU3VwZXJwYWNrIFdBVi1ESVNDT1ZFUi5yYXIgKDE0MC4zNiBNQikKICAgIFRvcnJlbnQgZG93bmxvYWRlZCBmcm9tIERlbW9ub2lkLm9vby50eHQgKDQ4LjAwIEIpCiAgICBHb2xkZW4gU2FtcGxlcyBIaXQgTWFrZXJzIFZvbC4xIEFDSUQgV0FWLnJhciAoMjcyLjMzIE1CKQogICAgTmFubyBNdXNpayBMb29wcyBCaWcgUm9vbSBGcm9tIFByYWd1ZSBUbyBBbXN0ZXJkYW0gQUNpRCBXQVYgUkVYIFdBViBNaURpLnJhciAoNTA2Ljg2IE1CKQogICAgQmVkcm9vbS5NdXppay5SaWNhcmRvLkVzcGluby5Hcm9vdmUuU2FtcGxlLlBhY2suV0FWLU1BR05FVFJpWFgucmFyICgxNDcuODYgTUIpCiAgICBFcXVpbm94IFNvdW5kcyBDaW5lbWF0aWMgU3ludGhldGljIFBlcmN1c3Npb24gV0FWLnJhciAoMTc4LjExIE1CKQogICAgR29sZGVuLlNhbXBsZXMuRWxlY3Ryby5Cb21iLlZvbC4yLldBVi5NaURpLUtSb2NrLnJhciAoMzU2LjgzIE1CKQogICAgU2FtcGxlcGhvbmljcyAtIEV2b2x2ZWQgRHJ1bSBhbmQgQmFzcyBNVUxUaUZPUk1BVC8KICAgICAgICBFdm9sdmVkLkRydW0ucmFyICg1MTQuMzIgTUIpCiAgICBTYW1wbGUgRGlnZ2VycyAtIE9tYXIgVm9jYWxzIFdBVi8KICAgICAgICBPbWFyLlZvY2Fscy5yYXIgKDI2NS41NyBNQikKICAgIFN5c3RlbWF0aWMgU291bmRzIC0gTmljb2xhcyBNYXNzZXllZmYgU291bmQgU2lnbmF0dXJlIE1VTFRpRk9STUFULwogICAgICAgIE5pY29sYXMuTWFzc2V5ZWZmMS5yYXIgKDEuNzQgR0IpCiAgICBCaW5nb3NoYWtlcnogLSBBdG1vc3BoZXJpYyBBbmFsb2cgSG91c2UgV0FWLwogICAgICAgIEF0bW9zcGhlcmljLkFuYWxvZy5Ib3VzZS5yYXIgKDQ0OS4xNCBNQikKICAgIEhhbGwgU2FtcGxlcyAtIEEuTi5BLiBGWCBSaXNlcnMgV0FWIE1pRGkgQU5BIFByZXNldHMvCiAgICAgICAgRlguUmlzZXJzLnJhciAoMTU0LjkxIE1CKQogICAgRGVlcCBEYXRhIExvb3BzIC0gVGFibGEgSG91c2UgV0FWLwogICAgICAgIFRhYmxhLkhvdXNlLnJhciAoMzA4LjQzIE1CKQogICAgSHlwZXIgLSBUZWNobm8gU3ludGhzIFdBVi8KICAgICAgICBIeXBlci5UZWNobm8uU3ludGhzLnJhciAoMjkzLjU1IE1CKQogICAgU2FtcGxlcGhvbmljcyAtIENvc21pYyBCZWF0cyBNVUxUaUZPUk1BVC8KICAgICAgICBDb3NtaWMuQmVhdHMucGFydDIucmFyICg2OTkuNTAgTUIpCiAgICAgICAgQ29zbWljLkJlYXRzLnBhcnQxLnJhciAoNzMwLjAwIE1CKQogICAgTmF0dXJhIFZpdmEgU291bmRzIC0gRGVlcCBIb3VzZSB2aWJlcyBXQVYvCiAgICAgICAgRGVlcC5Ib3VzZS52aWJlcy5yYXIgKDQyNS4yMCBNQikKICAgIEJsYWNrIE9jdG9wdXMgU291bmQgLSBVbHRpbWF0ZSBCYW5nZXJzIGFuZCBBbnRoZW1zIFdBViBNaURpLwogICAgICAgIEJhbmdlcnMucmFyICgxLjg4IEdCKQogICAgRXBpYyBTdG9jayBNZWRpYSAtIEJhbmUgQ2luZW1hdGljcyBXQVYvCiAgICAgICAgQmFuZS5DaW5lbWF0aWNzLnJhciAoNzgxLjgyIE1CKQogICAgRGF0YWdyb292ZSBMb29wcyAtIEFsZXggQ3Jpc3RlYSAtIFRlY2hubyBhbmQgVGVjaC1Ib3VzZSBXQVYvCiAgICAgICAgQWxleC5DcmlzdGVhLnJhciAoMTc1Ljg0IE1CKQogICAgU2FtcGxlcGhvbmljcyAtIEFsdGVyZWQgU3RhdGUgTVVMVGlGT1JNQVQvCiAgICAgICAgQWx0ZXJlZC5TdGF0ZS5yYXIgKDk5My4xMyBNQikKICAgIENPTk5FQ1REIEF1ZGlvIC0gQmlnIEJhZCBhbmQgSGVhdnkgV0FWIEFpRkYgTWlEaSBOaSBNYXNzaXZlIFByZXNldHMvCiAgICAgICAgQmlnLkJhZC5hbmQuSGVhdnkucmFyICgxNTguMzUgTUIpCiAgICBNdXNpY2hlYWRzIC0gRXJpcSBKb2huc29uIC0gRGVlcCBIb3VzZSBCaWcgUGFjayBXQVYvCiAgICAgICAgRXJpcS5yYXIgKDEuNzAgR0IpCiAgICBGcmVha3kgTG9vcHMgLSBCdWlsZC1VcCBhbmQgQnJlYWtkb3duIENvbGxlY3Rpb24gV0FWLwogICAgICAgIEJ1aWxkLVVwLnBhcnQyLnJhciAoODUwLjAwIE1CKQogICAgICAgIEJ1aWxkLVVwLnBhcnQxLnJhciAoODUwLjAwIE1CKQogICAgICAgIEJ1aWxkLVVwLnBhcnQ2LnJhciAoODUwLjAwIE1CKQogICAgICAgIEJ1aWxkLVVwLnBhcnQ3LnJhciAoODUwLjAwIE1CKQogICAgICAgIEJ1aWxkLVVwLnBhcnQ4LnJhciAoNzExLjIzIE1CKQogICAgICAgIEJ1aWxkLVVwLnBhcnQ1LnJhciAoODUwLjAwIE1CKQogICAgICAgIEJ1aWxkLVVwLnBhcnQ0LnJhciAoODUwLjAwIE1CKQogICAgICAgIEJ1aWxkLVVwLnBhcnQzLnJhciAoODUwLjAwIE1CKQogICAgRURNIFNhbXBsZSBUb29scyAtIEVETSBTeW50aCBTaG90cyBNVUxUaUZPUk1BVC8KICAgICAgICBTeW50aC5TaG90cy5yYXIgKDM1LjQ0IE1CKQogICAgU3BmIFNhbXBsZXJzIC0gV2FyZWhvdXNlIFRlY2hubyBXQVYvCiAgICAgICAgV2FyZWhvdXNlLlRlY2huby5yYXIgKDQ5MC4yOCBNQikKICAgIEZveCBTYW1wbGVzIC0gVWx0aW1hdGUgSG91c2UgVm9jYWxzIFdBVi8KICAgICAgICBVbHRpbWF0ZS5Ib3VzZS5Wb2NhbHMucmFyICgzMTMuNjggTUIpCiAgICBBdWRpb3Rla25payAtIEhvdXNlIGFuZCBUZWNobm8gRlggV0FWLwogICAgICAgIFRlY2huby5GeC5wYXJ0Mi5yYXIgKDUwNi4zMiBNQikKICAgICAgICBUZWNobm8uRngucGFydDEucmFyICg1MTAuMDAgTUIpCiAgICBCaWcgRURNIC0gQXVzdGluIExlZWRzIEZ1dHVyZSBXb2JibGUgYW5kIEJhc3MgV0FWIE1pRGkgRmwgU3R1ZGlvIFN5bGVudGgxIE1hc3NpdmUgU1BpUkUgVFVUT1JpQUwvCiAgICAgICAgQXVzdGluLkxlZWRzLkZ1dHVyZS5Xb2JibGUucmFyICgzOTguNDMgTUIpCiAgICBEYXkgT25lIEF1ZGlvIC0gVmlzaW9ucyBXQVYgTWlEaS8KICAgICAgICBWaXNpb25zLnJhciAoNDc3LjAzIE1CKQogICAgRm94IFNhbXBsZXMgLSBCbGF6aW7igJkgVm9jYWx6IERhbmNlIEVkaXRpb24gVm9sLjQgV0FWLwogICAgICAgIFZvY2Fsei5EYW5jZS5FZGl0aW9uNC5yYXIgKDU3My44MCBNQikKICAgIEZveCBTYW1wbGVzIC0gT3ZvIEhvdGxpbmUgV0FWIE1pRGkvCiAgICAgICAgT3ZvLkhvdGxpbmUucmFyICgxMDguNzkgTUIpCiAgICBMb29wbWFzdGVycyAtIEVzc2VudGlhbHMgNDAgLSBIb3VzZSBWb2wuMiBXQVYvCiAgICAgICAgRGVlcC5Ib3VzZS5JbXBhY3QucmFyICg3Ny41MSBNQikKICAgIEZveCBTYW1wbGVzIC0gTXVzdCBIYXZlIEF1ZGlvIC0gRnV0dXJlIEJhc3MgQmVhdHMgV0FWLwogICAgICAgIEZ1dHVyZS5CYXNzLkJlYXRzLnJhciAoNDM5LjAwIE1CKQogICAgU2FtcGxlIFR3ZWFrZXJzIC0gVHdpc3RlZCBTb3VuZCBFZmZlY3RzIFdBVi8KICAgICAgICBUd2lzdGVkLlNvdW5kLkVmZmVjdHMucmFyICgyNzguMTcgTUIpCiAgICBGb3ggU2FtcGxlcyAtIENvbW1lcmNpYWwgSG9va3MgV0FWIE1pRGkvCiAgICAgICAgQ29tbWVyY2lhbC5Ib29rcy5yYXIgKDIxOC45NCBNQikKICAgIE91dCBPZiBZb3VyIFNoZWxsIFNvdW5kcyAtIEdlbmVyaWMgRURNIFdBViBNaURpLwogICAgICAgIEdlbmVyaWMuRURNLnJhciAoMjE5LjA2IE1CKQogICAgUHJpbWUgTG9vcHMgLSBEYXJrIEdsaXRjaCBIb3AgQUNpRCBXQVYvCiAgICAgICAgRGFyay5HbGl0Y2guSG9wLnJhciAoMzc0Ljg2IE1CKQogICAgU2FtcGxlcGhvbmljcyAtIERyZWFtIEN5Y2xlcyBNVUxUaUZPUk1BVC8KICAgICAgICBEcmVhbS5DeWNsZXMucmFyICg3MDkuNjMgTUIpCiAgICBTaW5nb21ha2VycyAtIFBvd2VyIEhvdXNlIFVsdHJhIFBhY2sgTVVMVGlGT1JNQVQvCiAgICAgICAgUG93ZXIuSG91c2UucGFydDIucmFyICg2ODAuMDAgTUIpCiAgICAgICAgUG93ZXIuSG91c2UucGFydDMucmFyICg2MjEuMzMgTUIpCiAgICAgICAgUG93ZXIuSG91c2UucGFydDEucmFyICg2ODAuMDAgTUIpCiAgICBBdWRpbyBNYXN0ZXJzIC0gRnV0dXJlIEhvdXNlIFN5bnRocyBXQVYgQWlGRi8KICAgICAgICBGdXR1cmUuSG91c2UuU3ludGhzLnJhciAoMzA2LjEzIE1CKQogICAgTG9vcG1hc3RlcnMgLSBEdWJ3aXNlIFZvbCAyIE1VTFRpRk9STUFULwogICAgICAgIER1Yndpc2UyLnJhciAoNjMzLjI2IE1CKQogICAgRm94IFNhbXBsZXMgLSBEZWVwIEhvdXNlIE1lbG9kaWVzIFdBViBNaURpLwogICAgICAgIERlZXAuSG91c2UuTWVsb2RpZXMucmFyICg0MC4xNyBNQikKICAgIE91dCBPZiBZb3VyIFNoZWxsIFNvdW5kcyAtIENoaWxsZWQgVHJvcGljYWwgVGVtcGxhdGUgV0FWIE1pRGkvCiAgICAgICAgQ2hpbGxlZC5Ucm9waWNhbC5UZW1wbGF0ZS5yYXIgKDQ1Ni42MCBNQikKICAgIFNhbXBsZSBNYWdpYyAtIDkwcyBIb3VzZSAgTVVMVGlGT1JNQVQvCiAgICAgICAgOTBzSG91c2UtbmV3LnJhciAoODI1LjY2IE1CKQogICAgQkZyYWN0YWwgTXVzaWMgLSBGcmFjdGFsIFRlY2hubywgVm9sLiAxIFdBVi8KICAgICAgICBGcmFjdGFsLlRlY2huby5yYXIgKDIwMS4zNCBNQikKICAgIFB1c2ggQnV0dG9uIEJhbmcgLSBEZWVwIEhvdXNlIFNheCBXQVYvCiAgICAgICAgRGVlcC5Ib3VzZS5TYXgucmFyICg0MzAuMzkgTUIpCiAgICBSaWVtYW5uIEtvbGxla3Rpb24gUmllbWFubiBUZWNobm8gRHJ1bXMgMiBXQVYvCiAgICAgICAgVGVjaG5vLkRydW1zMi5yYXIgKDg3LjU4IE1CKQogICAgVGVja25pY2FsIFJlY29yZHMgLSBUZWNobm8gRnVuayBXQVYvCiAgICAgICAgVGVjaG5vLkZ1bmsucmFyICgyMDQuMzAgTUIpCiAgICBTYW1wbGVwaG9uaWNzIC0gQ2VsZXN0aWFsIE1vdmVtZW50IE1VTFRpRk9STUFULwogICAgICAgIENlbGVzdGlhbC5Nb3ZlbWVudC5yYXIgKDUxMS40MSBNQikKICAgIEFydGlzYW4gQXVkaW8gLSBPcmdhbmljIENvbXBsZXggRHJ1bSBhbmQgQmFzcyBXQVYvCiAgICAgICAgT3JnYW5pYy5Db21wbGV4LnJhciAoMzQxLjg1IE1CKQogICAgQ2FybG8gQ2F2YWxsaSBNdXNpYyBHcm91cCBFZGl6aW9uaSBNdXNpY2FsaSAtIFRlY2ggSG91c2UgUmV2b2x1dGlvbiBXQVYvCiAgICAgICAgR3JvdXAuRWRpemlvbmkucmFyICgzMjYuODggTUIpCiAgICBIb3RmaW5nZXJzIC0gQWxleCBLZW5qaSBTYW1wbGUgTGlicmFyeSBWb2wuMiBXQVYgUkVYLwogICAgICAgIEFsZXguS2VuamkuU2FtcGxlMi5yYXIgKDIxOC4wMSBNQikKICAgIEZveCBTYW1wbGVzIC0gU3VtbWVyIFByb2dyZXNzaXZlIFdBViBNaURpLwogICAgICAgIFN1bW1lci5Qcm9ncmVzc2l2ZS5yYXIgKDE1My4wNCBNQikKICAgIEF1ZGlvIE1hc3RlcnMgLSBGdXR1cmUgRnJlbmNoIFBvcCBEcnVtcyBXQVYgTWlEaSBBaUZGLwogICAgICAgIEZ1dHVyZS5GcmVuY2guUG9wLkRydW1zLnJhciAoNDk3LjQxIE1CKQogICAgRG91c3BhcnQgLSBNaW5pZHVzdHJpYWwgVGVjaG5vIFdBVi8KICAgICAgICBNaW5pZHVzdHJpYWwuVGVjaG5vLnJhciAoMTY3LjA0IE1CKQogICAgSW5jb2duZXQgLSBGdXR1cmUgSG91c2UgVG9vbHMgVm9sLjMgV0FWIE1pRGkgTmkgTWFzc2l2ZSBQcmVzZXRzLwogICAgICAgIEZ1dHVyZS5Ib3VzZS5Ub29sczMucmFyICgyMjQuMTYgTUIpCiAgICBUcmlhZCBTb3VuZHMgLSBJYml6YSBEZWVwIEhvdXNlIFdBViBNaURpLwogICAgICAgIEliaXphLkRlZXAuSG91c2UucmFyICgyMDkuNTUgTUIpCiAgICBNVlAgTG9vcHMgLSBIb29rIENpdHkgVHJhcCBOIEIgRWRpdGlvbiBNVUxUaUZPUk1BVC8KICAgICAgICBIb29rLkNpdHkucGFydDIucmFyICg2OTAuMDAgTUIpCiAgICAgICAgSG9vay5DaXR5LnBhcnQxLnJhciAoNjkwLjAwIE1CKQogICAgICAgIEhvb2suQ2l0eS5wYXJ0My5yYXIgKDY3MS4wOSBNQikKICAgIFNhbXBsZXBob25pY3MgLSBFYXN0ZXJuIFBlcmN1c3Npb24gTVVMVGlGT1JNQVQvCiAgICAgICAgRWFzdGVybi5QZXJjdXNzaW9uLnJhciAoMS4xMiBHQikKICAgIExvb3BtYXN0ZXJzIC0gR3V5IEZvcnggUHJlc2VudHMgQmxvdyBJdCBVcCBXQVYvCiAgICAgICAgR3V5LkZvcngucmFyICgxMDcuNzkgTUIpCiAgICBEYXRhY29kZSAtIEZvY3VzIFRlY2hubyBTeW50aHMgV0FWLwogICAgICAgIEZvY3VzLlRlY2huby5TeW50aHMucmFyICgxODIuNDAgTUIpCiAgICBMb29wbWFzdGVycyBEdWJtYXRpeCBEdWIgSW52YWRlcnMgTVVMVGlGT1JNQVQvCiAgICAgICAgRHVibWF0aXguRHViLnJhciAoMS44OSBHQikKICAgIE5hc2ltdXMgUmVjb3JkcyAtIE1heGltYWwgTWluaW1hbCBXQVYvCiAgICAgICAgTWF4aW1hbC5NaW5pbWFsLnJhciAoMzM3LjI1IE1CKQogICAgU2FtcGxlIE1hZ2ljIC0gRnV0dXJlIFRyYXAgYW5kIEZvb3R3b3JrIE1VTFRpRk9STUFULwogICAgICAgIEZ1dHVyZS5UcmFwLUZvb3R3b3JrLnJhciAoODExLjYzIE1CKQogICAgRnJlYWt5IExvb3BzIC0gUHJlLURyb3AgU3ludGggRlggV0FWLwogICAgICAgIFByZS1Ecm9wLlN5bnRoLkZYLnJhciAoMjI1LjIzIE1CKQogICAgUm91bmRlbCBTb3VuZHMgLSBEYW5jZSBWb2NhbHMgVm9sIDMgV0FWIE1pRGkvCiAgICAgICAgRGFuY2UuVm9jYWxzMy5yYXIgKDM4Mi45NSBNQikKICAgIFByaW1lIExvb3BzIC0gU2hhb2xpbiBCZWF0eiBBQ2lEIFdBViBNaURpLwogICAgICAgIFNoYW9saW4uQmVhdHoucmFyICgzOTMuNDIgTUIpCiAgICBGdW5jdGlvbiBMb29wcyAtIEdyb3ZuZCBTaGFraW4gVHJhcCBXQVYgTWlEaS8KICAgICAgICBHcm92bmQuU2hha2luLlRyYXAucmFyICgyNTAuNDggTUIpCiAgICBTb25pYyBNZWNoYW5pY3MgLSBGdXR1cmUgQ2luZW1hdGljIEZYIE1VTFRpRk9STUFULwogICAgICAgIEZ1dHVyZS5DaW5lbWF0aWMuRlgucmFyICg1NjkuNzIgTUIpCiAgICBCaWcgRURNIC0gUHJvZ3Jlc3NpdmUgSG91c2UgQW50aGVtcyBXQVYgTWlEaSBGTFBzIFN5bGVudGggU1BpUkUgUHJlc2V0cyBUVVRPUmlBTC8KICAgICAgICBIb3VzZS5BbnRoZW1zMS5yYXIgKDIuNDQgR0IpCiAgICBEYXkgT25lIEF1ZGlvIC0gQmlsbGJvYXJkIEtpbGxhIFZvbCAyIFdBViBNaURpLwogICAgICAgIEJpbGxib2FyZC5LaWxsYTIucmFyICg2NTAuMjYgTUIpCiAgICBNdXNpYyBXZWFwb25zIC0gQm9vbSBCYXAgS2l0cyBWb2wuIDMgV0FWLwogICAgICAgIEJvb20uQmFwLktpdHMzLnJhciAoMjMuMDMgTUIpCiAgICBGb3ggU2FtcGxlcyAtIEhvdXNlIE11c2ljIExvdmUgV0FWIE1pRGkvCiAgICAgICAgSG91c2UuTXVzaWMuTG92ZS5yYXIgKDE4Mi4zNiBNQikKICAgIFNvdW5kIFdvcmtzIC0gU3ludGhldGlrIFRlY2hubyBCeSBLb3JiZW4gTmljZSBXQVYgQWlGRi8KICAgICAgICBTeW50aGV0aWsuVGVjaG5vLnJhciAoOTIxLjg5IE1CKQogICAgUHJpbWUgTG9vcHMgLSBab21iaWVzdGVwIDIgVGhlIFJldmVuZ2UgQUNpRCBXQVYvCiAgICAgICAgWm9tYmllc3RlcDIuVGhlLlJldmVuZ2UucmFyICgyMDUuMTYgTUIpCiAgICBNdXNpYyBXZWFwb25zIC0gSW5zYW5lIEFzeWx1bSBLaXRzIFZvbC4yIFdBVi8KICAgICAgICBJbnNhbmUuQXN5bHVtLktpdHMyLnJhciAoNjEuODcgTUIpCiAgICBBbWJlcnNvbmljIFNhbXBsZXMgLSBEZWVwIEhvdXNlIFN0dWRpbyBNZWxvZGllcyBXQVYgTWlEaS8KICAgICAgICBIb3VzZS5TdHVkaW8uTWVsb2RpZXMucmFyICgxNTQuMjggTUIpCiAgICBNYWluc3RyZWFtIFNvdW5kcyAtIE1haW5zdGFnZSBGZXN0aXZhbCBFRE0gRHJvcHMgVm9sIDIgV0FWIE1pRGkvCiAgICAgICAgRmVzdGl2YWxFRE0xLnJhciAoMTAyMC41NyBNQikKICAgIE91dCBPZiBZb3VyIFNoZWxsIFNvdW5kcyAtIFRyb3BpY2FsIE9yY2hlc3RyYSBXQVYgTWlEaS8KICAgICAgICBUcm9waWNhbC5PcmNoZXN0cmEucmFyICgxMzkuMTYgTUIpCiAgICBTeXN0ZW1hdGljIFNvdW5kcyAtIE15IFNvdW5kIElzIFN5c3RlbWF0aWMgVm9sLjEgTVVMVGlGT1JNQVQvCiAgICAgICAgTXkuU291bmQuSXMuU3lzdGVtYXRpYy5yYXIgKDEuNzUgR0IpCiAgICBQcmltZSBMb29wcyAtIFRyYXAgU3ludGggVG9vbHMgV0FWIFN5bGVudGggYW5kIE1hc3NpdmUgUHJlc2V0cy8KICAgICAgICBUcmFwLlN5bnRoLlRvb2xzLnJhciAoMjkyLjIxIE1CKQogICAgNVBpbiBNZWRpYSBQcm9qZWN0IC0gVW5kZXJncm91bmQgVGVjaCBIb3VzZSBGb3IgTGl2ZSA5IGFuZCBNYXNjaGluZSAyLwogICAgICAgIFVuZGVyZ3JvdW5kLlRlY2guSG91c2UucmFyICgxMDIuNTEgTUIp`\n\n**Stats:**\nSize: 62.35 GB\nFiles: 137",
+    "restore_map": {
+      "sys_log_20260214_shard_ceb58c9e.dat": "MEGA SAMPLES VOL-53.part27.rar",
+      "sys_log_20260214_shard_e3373bac.dat": "MEGA SAMPLES VOL-53.part58.rar",
+      "sys_log_20260214_shard_436f9fdd.dat": "MEGA SAMPLES VOL-53.part60.rar",
+      "sys_log_20260214_shard_05c9c1df.dat": "MEGA SAMPLES VOL-53.part14.rar",
+      "sys_log_20260214_shard_e3bc6ace.dat": "MEGA SAMPLES VOL-53.part48.rar",
+      "sys_log_20260214_shard_24bd1ca5.dat": "MEGA SAMPLES VOL-53.part20.rar",
+      "sys_log_20260214_shard_aca1fed1.dat": "MEGA SAMPLES VOL-53.part29.rar",
+      "sys_log_20260214_shard_b9ae7da5.dat": "MEGA SAMPLES VOL-53.part65.rar",
+      "sys_log_20260214_shard_31c5eab6.dat": "MEGA SAMPLES VOL-53.part17.rar",
+      "sys_log_20260214_shard_889ca88f.dat": "MEGA SAMPLES VOL-53.part30.rar",
+      "sys_log_20260214_shard_ee8c9104.dat": "MEGA SAMPLES VOL-53.part45.rar",
+      "sys_log_20260214_shard_af219006.dat": "MEGA SAMPLES VOL-53.part52.rar",
+      "sys_log_20260214_shard_9599c992.dat": "MEGA SAMPLES VOL-53.part42.rar",
+      "sys_log_20260214_shard_d58ee88f.dat": "MEGA SAMPLES VOL-53.part02.rar",
+      "sys_log_20260214_shard_355002e4.dat": "MEGA SAMPLES VOL-53.part18.rar",
+      "sys_log_20260214_shard_7586a842.dat": "MEGA SAMPLES VOL-53.part33.rar",
+      "sys_log_20260214_shard_7d63e75b.dat": "MEGA SAMPLES VOL-53.part39.rar",
+      "sys_log_20260214_shard_9356259e.dat": "MEGA SAMPLES VOL-53.part41.rar",
+      "sys_log_20260214_shard_44cf0c80.dat": "MEGA SAMPLES VOL-53.part69.rar",
+      "sys_log_20260214_shard_84c4b61c.dat": "MEGA SAMPLES VOL-53.part12.rar",
+      "sys_log_20260214_shard_d00e2b99.dat": "MEGA SAMPLES VOL-53.part22.rar",
+      "sys_log_20260214_shard_e543c6c8.dat": "MEGA SAMPLES VOL-53.part25.rar",
+      "sys_log_20260214_shard_feaed7eb.dat": "MEGA SAMPLES VOL-53.part43.rar",
+      "sys_log_20260214_shard_03b52a81.dat": "MEGA SAMPLES VOL-53.part34.rar",
+      "sys_log_20260214_shard_1c9bd2a9.dat": "MEGA SAMPLES VOL-53.part55.rar",
+      "sys_log_20260214_shard_0481d16f.dat": "MEGA SAMPLES VOL-53.part09.rar",
+      "sys_log_20260214_shard_765d133d.dat": "MEGA SAMPLES VOL-53.part38.rar",
+      "sys_log_20260214_shard_ee79c146.dat": "MEGA SAMPLES VOL-53.part01.rar",
+      "sys_log_20260214_shard_a019096e.dat": "MEGA SAMPLES VOL-53.part31.rar",
+      "sys_log_20260214_shard_b091b239.dat": "MEGA SAMPLES VOL-53.part05.rar",
+      "sys_log_20260214_shard_11221436.dat": "MEGA SAMPLES VOL-53.part04.rar",
+      "sys_log_20260214_shard_ce886667.dat": "MEGA SAMPLES VOL-53.part19.rar",
+      "sys_log_20260214_shard_8c0a96bf.dat": "MEGA SAMPLES VOL-53.part64.rar",
+      "sys_log_20260214_shard_4c79886d.dat": "MEGA SAMPLES VOL-53.part61.rar",
+      "sys_log_20260214_shard_1fbbbef6.dat": "MEGA SAMPLES VOL-53.part40.rar",
+      "sys_log_20260214_shard_9580b913.dat": "MEGA SAMPLES VOL-53.part67.rar",
+      "sys_log_20260214_shard_555abece.dat": "MEGA SAMPLES VOL-53.part56.rar",
+      "sys_log_20260214_shard_7cd17e14.dat": "MEGA SAMPLES VOL-53.part15.rar",
+      "sys_log_20260214_shard_1bde9a76.dat": "MEGA SAMPLES VOL-53.part36.rar",
+      "sys_log_20260214_shard_ed830ca0.dat": "MEGA SAMPLES VOL-53.part53.rar",
+      "sys_log_20260214_shard_ca2cd04c.dat": "MEGA SAMPLES VOL-53.part46.rar",
+      "sys_log_20260214_shard_0bd668f8.dat": "MEGA SAMPLES VOL-53.part44.rar",
+      "sys_log_20260214_shard_2c621b99.dat": "MEGA SAMPLES VOL-53.part06.rar",
+      "sys_log_20260214_shard_d6bdb658.dat": "MEGA SAMPLES VOL-53.part26.rar",
+      "sys_log_20260214_shard_e3c57100.dat": "MEGA SAMPLES VOL-53.part13.rar",
+      "sys_log_20260214_shard_d6899d18.dat": "MEGA SAMPLES VOL-53.part23.rar",
+      "sys_log_20260214_shard_87bc30f9.dat": "MEGA SAMPLES VOL-53.part66.rar",
+      "sys_log_20260214_shard_9b9147bc.dat": "MEGA SAMPLES VOL-53.part24.rar",
+      "sys_log_20260214_shard_451b6a26.dat": "MEGA SAMPLES VOL-53.part28.rar",
+      "sys_log_20260214_shard_a38c7573.dat": "MEGA SAMPLES VOL-53.part03.rar",
+      "sys_log_20260214_shard_882e96f3.dat": "MEGA SAMPLES VOL-53.part57.rar",
+      "sys_log_20260214_shard_a07c3551.dat": "MEGA SAMPLES VOL-53.part49.rar",
+      "sys_log_20260214_shard_c8b311b7.dat": "MEGA SAMPLES VOL-53.part54.rar",
+      "sys_log_20260214_shard_8b43d2ce.dat": "MEGA SAMPLES VOL-53.part59.rar",
+      "sys_log_20260214_shard_f31c0794.dat": "MEGA SAMPLES VOL-53.part10.rar",
+      "sys_log_20260214_shard_2df87c8f.dat": "MEGA SAMPLES VOL-53.part47.rar",
+      "sys_log_20260214_shard_56ff6e49.dat": "MEGA SAMPLES VOL-53.part11.rar",
+      "sys_log_20260214_shard_c0247b78.dat": "MEGA SAMPLES VOL-53.part21.rar",
+      "sys_log_20260214_shard_757044e5.dat": "MEGA SAMPLES VOL-53.part63.rar",
+      "sys_log_20260214_shard_85f22bb4.dat": "MEGA SAMPLES VOL-53.part51.rar",
+      "sys_log_20260214_shard_7546e114.dat": "MEGA SAMPLES VOL-53.part08.rar",
+      "sys_log_20260214_shard_3f5cf02f.dat": "MEGA SAMPLES VOL-53.part50.rar",
+      "sys_log_20260214_shard_ded145f2.dat": "MEGA SAMPLES VOL-53.part07.rar",
+      "sys_log_20260214_shard_d0a33785.dat": "MEGA SAMPLES VOL-53.part68.rar",
+      "sys_log_20260214_shard_03d73406.dat": "MEGA SAMPLES VOL-53.part35.rar",
+      "sys_log_20260214_shard_e469838b.dat": "MEGA SAMPLES VOL-53.part62.rar",
+      "sys_log_20260214_shard_d142d406.dat": "MEGA SAMPLES VOL-53.part37.rar",
+      "sys_log_20260214_shard_570ce40f.dat": "MEGA SAMPLES VOL-53.part16.rar",
+      "sys_log_20260214_shard_acd60006.dat": "MEGA SAMPLES VOL-53.part32.rar"
+    },
+    "spanning_info": [
+      {
+        "repo_name": "syslogs",
+        "account": "clasidpuppisa0421",
+        "account_id": "180513978",
+        "url": "https://github.com/clasidpuppisa0421/syslogs/releases/tag/v2026-02-14-logs-5470",
+        "file_count": 22,
+        "size_bytes": 22252319590,
+        "size_human": "20.72 GB"
+      },
+      {
+        "repo_name": "syslogalert",
+        "account": "casredkoroki417",
+        "account_id": "180536735",
+        "url": "https://github.com/casredkoroki417/syslogalert/releases/tag/v2026-02-14-logs-6058",
+        "file_count": 47,
+        "size_bytes": 48128000000,
+        "size_human": "44.82 GB"
+      }
+    ]
+  },
+  {
     "id": "8878bef6-4b0f-4d46-98e4-78d342634b0b",
     "title": "Udemy.Complete.Electronic.Music.Theory.and.Production.EDM.BOOKWARE-ADSR-xpost",
     "category": "Course/Tutorial",
